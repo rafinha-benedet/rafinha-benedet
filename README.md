@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rafaella Benedet
 
-**`Desenvolvedora FullStack`**
+**`Acadêmica de Engenharia de Software`**
 
 Me chamo Rafaella de Souza Benedet, tenho 20 anos e sou natural de Santa Catarina. Atualmente, estou cursando Engenharia de Software na SATC. Sou apaixonada por tecnologia, especialmente pelo desenvolvimento de software e pela constante evolução do mundo digital.
 Tenho interesse em desenvolvimento web, inovação tecnológica e melhoria contínua de processos.
